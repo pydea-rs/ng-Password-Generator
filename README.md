@@ -2,3 +2,4 @@
 
     * this a simple pass generator, that i use for my pass generation sometimes.
 demo url: https://pydea-rs.github.io/ng-Password-Generator/
+or its also on: https://pigeon.persiancollegee.ir/
